@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋Happy to see u here
 
 <!--
 **Narendra8Pal/Narendra8Pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on some cool projects
+- 🌱 I’m learning everthing which comes in my way
+- 👯 Always looking to collaborate on great stuffs    
+- 📫 How to reach me: 
+- ⚡ Fun fact: know thyself😄
+
+MY STACKS
+
