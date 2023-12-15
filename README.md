@@ -34,4 +34,4 @@ FIREBASE
 
 - NOTE: AS ALWAYS OPEN TO LEARN AND TRY DIFFERENT THINGS
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Narendra8Pal&theme="> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narendra8Pal&theme=">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NarxPal&theme="> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarxPal&theme=">
